@@ -1,4 +1,4 @@
-# IMDb-Automation-Robot
+# IMDb Automation Testing with Robot Framesowk + Selenium 
 
 This repository contains test scripts written in Robot Framework with Selenium Library for automating and conducting comprehensive testing scenarios on the IMDb website, ensuring the functionality, performance, and user experience of the website are thoroughly validated.
 
